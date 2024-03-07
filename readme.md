@@ -48,7 +48,7 @@ streamlit run app.py
 
 ## Contributors
 
-- [Pratik Nagdeve](https://github.com/tadiparChinese)
+- [Pratik Nagdeve](https://github.com/pratik-nagdeve)
 
 ---
 Feel free to customize this README file further based on your project's specific requirements and features.
